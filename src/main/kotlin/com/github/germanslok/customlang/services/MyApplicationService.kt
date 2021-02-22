@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.germanslok.customlang.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.germanslok.customlang.MyBundle
 
 class MyApplicationService {
 
